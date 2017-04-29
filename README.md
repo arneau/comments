@@ -4,7 +4,21 @@
 
 	// Stop!
 	// (interfaces with webcam)
+	// Oh, it's you
+	// Proceed!
+
+	// Interesting choice ... you working here that is
+
+	// (scratches head)
+
+	// 
+
+	// I'll have two number nines. A number nine large. A number six with extra dip. A number seven. Two number forty-fives. One with cheese. The other with cheese too. A mega soda. And your number ... cause I'm gonna be too fat to get it next time. 
+
 	// Your face looks strangely familiar
+
+	// Dear Hometime,
+	// I love you!
 
 	// Wait ... have I seen you before?
 
@@ -27,4 +41,4 @@
 
 	// Yeah ... you're in the wrong file. Sorry bud!
 	//
-	// Why don't you believe me? :(
+	// 
